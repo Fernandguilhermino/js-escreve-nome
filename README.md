@@ -1,1 +1,1 @@
-# js-escreve-nomeEste trabalho está marcado com CC0 1.0. Para visualizar uma cópia desta licença, visite https://creativecommons.org/publicdomain/zero/1.0/ por f
+alura de fernanda está licenciada sob Creative Commons Atribuição 4.0 Internacional
